@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "House Tab",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "House Tab",
+  "start_url": "/",
+  "theme_color": "#1B2A3A",
+  "icons": [
+    {
+      "src": "https://hypexel.github.io/gillhouse/icons/icon-192.png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "gill",
+  "description": "Gill House App"
+}
